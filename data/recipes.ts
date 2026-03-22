@@ -164,7 +164,7 @@ export const recipes: Recipe[] = [
       "薄力粉をまぶすことで肉にタレが絡みやすくなる。",
       "レモン汁は最後に加えて香りを飛ばさない。",
     ],
-    youtubeId: undefined,
+    youtubeId: "9JZkRlSJ9k0",
     views: 450000,
   },
   {
@@ -195,7 +195,7 @@ export const recipes: Recipe[] = [
       "生地にマヨネーズを混ぜるのが再現の肝。",
       "びっくりドンキー風ソースは醤油・みりん・酒・にんにくで。",
     ],
-    youtubeId: undefined,
+    youtubeId: "cDm6Ni3pPXo",
     views: 520000,
   },
   {
@@ -226,7 +226,7 @@ export const recipes: Recipe[] = [
       "そぎ切りにすることで火の通りが均一に。",
       "漬け時間は15分以上がおすすめ。",
     ],
-    youtubeId: undefined,
+    youtubeId: "kre60TCT7O8",
     views: 480000,
   },
 
@@ -352,7 +352,6 @@ export const recipes: Recipe[] = [
       "ラップは不要。蒸気を逃がしてちょうどよい水分に。",
       "1人分657kcal。悪魔的な旨さの代償。",
     ],
-    youtubeId: undefined,
     views: 350000,
   },
   {
@@ -480,7 +479,7 @@ export const recipes: Recipe[] = [
       "味の素は「え、こんなに？」と思う量が正解。",
       "醤油は鍋肌から回し入れて香ばしさを出す。",
     ],
-    youtubeId: undefined,
+    youtubeId: "pdQkJyKgfNM",
     views: 550000,
   },
 
