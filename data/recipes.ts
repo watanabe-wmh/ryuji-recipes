@@ -33,7 +33,7 @@ export const recipes: Recipe[] = [
       "二度揚げでカリッと仕上がる。休ませる時間が重要。",
       "片栗粉は薄くまぶすのがポイント。",
     ],
-    youtubeId: "UGVHkEb6jLY",
+    youtubeId: "xGKn7TD9jaM",
     views: 1249748,
   },
   {
@@ -67,7 +67,7 @@ export const recipes: Recipe[] = [
       "牛脂をよく混ぜて全体に馴染ませること。",
       "終始弱火〜中火で焦がさないように。",
     ],
-    youtubeId: "wCZFENkEllI",
+    youtubeId: "qgL4wLgADUI",
     views: 768428,
   },
   {
@@ -101,7 +101,7 @@ export const recipes: Recipe[] = [
       "バター・砂糖・ウスターソースの3つでコクが劇的に増す。",
       "じゃがいも・にんじんはお好みで追加OK。",
     ],
-    youtubeId: "aFBqhKR2KQo",
+    youtubeId: "BcKNwo7bzJ4",
     views: 707799,
   },
   {
@@ -132,7 +132,7 @@ export const recipes: Recipe[] = [
       "水は一切使わない。白菜の水分だけで煮込むのがポイント。",
       "ポン酢をつけて食べても最高。",
     ],
-    youtubeId: "j-cVSFmjqF4",
+    youtubeId: "if4_ByJGRs8",
     views: 719937,
   },
   {
@@ -164,7 +164,7 @@ export const recipes: Recipe[] = [
       "薄力粉をまぶすことで肉にタレが絡みやすくなる。",
       "レモン汁は最後に加えて香りを飛ばさない。",
     ],
-    youtubeId: "n3bxBNJmYgk",
+    youtubeId: undefined,
     views: 450000,
   },
   {
@@ -195,7 +195,7 @@ export const recipes: Recipe[] = [
       "生地にマヨネーズを混ぜるのが再現の肝。",
       "びっくりドンキー風ソースは醤油・みりん・酒・にんにくで。",
     ],
-    youtubeId: "QRxnXhF0hZo",
+    youtubeId: undefined,
     views: 520000,
   },
   {
@@ -226,7 +226,7 @@ export const recipes: Recipe[] = [
       "そぎ切りにすることで火の通りが均一に。",
       "漬け時間は15分以上がおすすめ。",
     ],
-    youtubeId: "1wVFpnN0bJA",
+    youtubeId: undefined,
     views: 480000,
   },
 
@@ -258,7 +258,7 @@ export const recipes: Recipe[] = [
       "茹で汁とオイルの乳化が命。白濁するまで振る。",
       "パスタの茹で湯は塩を多めに（1%以上）。",
     ],
-    youtubeId: "aCkJRZaPWTs",
+    youtubeId: "Jx-tqntWPCM",
     views: 1063806,
   },
   {
@@ -290,7 +290,7 @@ export const recipes: Recipe[] = [
       "フライパン一つで茹でから完成まで。洗い物最少。",
       "納豆のタレとからしも全部使う。",
     ],
-    youtubeId: "GMyBDBMPuPE",
+    youtubeId: "aEG6nutUySY",
     views: 1085410,
   },
   {
@@ -323,7 +323,7 @@ export const recipes: Recipe[] = [
       "ケチャップは先に炒めて酸味を飛ばすのが重要。",
       "バターを最後に加えてコクとツヤを出す。",
     ],
-    youtubeId: "MudFBpkaYpE",
+    youtubeId: "uCbg_uS9aEU",
     views: 663817,
   },
   {
@@ -352,7 +352,7 @@ export const recipes: Recipe[] = [
       "ラップは不要。蒸気を逃がしてちょうどよい水分に。",
       "1人分657kcal。悪魔的な旨さの代償。",
     ],
-    youtubeId: "ysBM0NDdWj4",
+    youtubeId: undefined,
     views: 350000,
   },
   {
@@ -383,7 +383,7 @@ export const recipes: Recipe[] = [
       "酢が味を引き締める隠し味。",
       "焼きそば麺の付属ソースは使わない。",
     ],
-    youtubeId: "7i09RLSlE1A",
+    youtubeId: "qaru1FjkI3c",
     views: 380000,
   },
 
@@ -419,7 +419,7 @@ export const recipes: Recipe[] = [
       "酒を加えることでしっとり感と香りが出て油っぽさが軽減。",
       "終始強火。鉄の中華鍋が理想。",
     ],
-    youtubeId: "NfT0Shji6rE",
+    youtubeId: "EmCPHumbMvo",
     views: 787990,
   },
   {
@@ -450,7 +450,7 @@ export const recipes: Recipe[] = [
       "麺は細かく砕きすぎない。食感を残す。",
       "卵は半熟がベスト。混ぜながら食べる。",
     ],
-    youtubeId: "LLbY6LEqjIw",
+    youtubeId: "ZC7ZhaVWAac",
     views: 420000,
   },
   {
@@ -480,7 +480,7 @@ export const recipes: Recipe[] = [
       "味の素は「え、こんなに？」と思う量が正解。",
       "醤油は鍋肌から回し入れて香ばしさを出す。",
     ],
-    youtubeId: "gKKDCWMHB74",
+    youtubeId: undefined,
     views: 550000,
   },
 
@@ -516,7 +516,7 @@ export const recipes: Recipe[] = [
       "じゃがいもは崩しすぎない。ゴロッと感を残す。",
       "温かいうちに調味すると味が染みる。",
     ],
-    youtubeId: "VvOBsCqDoDg",
+    youtubeId: "r7RBT2q1dK4",
     views: 695667,
   },
   {
@@ -546,7 +546,7 @@ export const recipes: Recipe[] = [
       "ご飯にのせても、豆腐にのせても最高。",
       "一味唐辛子の量はお好みで調整。",
     ],
-    youtubeId: "MbYMdKajHLo",
+    youtubeId: "p4r1FdIi-us",
     views: 400000,
   },
   {
@@ -574,7 +574,7 @@ export const recipes: Recipe[] = [
       "1人分わずか106kcal。ダイエットにも最適。",
       "水気はしっかり切ること。味がぼやけない。",
     ],
-    youtubeId: "JbCuSMnpNfA",
+    youtubeId: "6Uj6tN9vH_o",
     views: 320000,
   },
 
@@ -613,7 +613,7 @@ export const recipes: Recipe[] = [
       "こんにゃくはスプーンでちぎると断面が荒くなり味が染みやすい。",
       "ごぼうはアルミホイルを丸めたもので洗うと皮がきれいに取れる。",
     ],
-    youtubeId: "JIfaRxPAKxI",
+    youtubeId: "OL8o03u8l2Y",
     views: 1369919,
   },
   {
@@ -646,7 +646,7 @@ export const recipes: Recipe[] = [
       "生姜をたっぷり入れると代謝アップ。",
       "油は最小限。ごま油小さじ1で十分。",
     ],
-    youtubeId: "hR6kFxBpfTM",
+    youtubeId: "jjdLq6UeH_M",
     views: 380000,
   },
 ];

@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import { Recipe } from "@/types/recipe";
 
 const categoryColors: Record<string, string> = {
@@ -19,13 +18,12 @@ export default function RecipeCard({ recipe }: { recipe: Recipe }) {
     <Link href={`/recipes/${recipe.slug}`} className="group block">
       <div className="bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-200 group-hover:shadow-xl group-hover:-translate-y-1">
         {thumbnailUrl && (
-          <div className="relative aspect-video bg-stone-200">
-            <Image
+          <div className="aspect-video bg-stone-200">
+            <img
               src={thumbnailUrl}
               alt={recipe.title}
-              fill
-              className="object-cover"
-              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              className="w-full h-full object-cover"
+              loading="lazy"
             />
           </div>
         )}
